@@ -33,7 +33,6 @@ Here is my final construction, up and running.
 
 ![Figure 1](images/cloud-in-a-box.jpeg)
 
-
 ## Customization
 
 The HypriotOS is installed with some default properties that we need to change like user name, host name, IP address and some others properties. 
